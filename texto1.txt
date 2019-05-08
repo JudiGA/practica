@@ -7,3 +7,9 @@ nano /var/www/trabajogrupal.com/public_html/index.html
 
 Hola
 Segundo commit
+<<<<<<< HEAD
+=======
+Tercero
+hola ......
+cuarto
+>>>>>>> b85dd8e2ffefb18ba34a1157cb0469c11db77f4e
