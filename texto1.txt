@@ -2,6 +2,7 @@ hola mundo
 hello people
 como estas?
 nueva linea
+nano /var/www/trabajogrupal.com/public_html/index.html
 
 
 Hola
